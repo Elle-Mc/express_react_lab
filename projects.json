@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Baby got Books",
+      "live": "https://jedi-project-one.vercel.app/",
+      "git": "https://github.com/Elle-Mc/jedi_project_one",
+      "image": "https://i.imgur.com/VRR7kkC.png"
+    },
+    {
+      "name": "Where to Dine for Din",
+      "live": "https://where-to-dine-for-din.herokuapp.com/restaurants",
+      "git": "https://github.com/Elle-Mc/project_two",
+      "image": "https://imgur.com/a/fUm5UxI"
+    }
+  ]
